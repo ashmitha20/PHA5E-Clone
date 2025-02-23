@@ -21,4 +21,7 @@ Recreation of the **Pha5e** website's hero section with **staggered text animati
 - **JavaScript (ES6)** - Event handling, animation triggers, and interactivity.
 
 ---
+## 🚀 Live Demo
+[🔗 Click here to see the live demo](#) https://ashmitha20.github.io/PHA5E-Clone/
 
+---
